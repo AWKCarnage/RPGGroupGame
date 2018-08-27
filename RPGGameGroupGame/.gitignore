@@ -75,3 +75,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#Exceptions for working on folders
+Content/JonsTesting/*
+Content/Brandt/*
+Content/Ross/*
+Content/Alex/*
